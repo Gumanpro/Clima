@@ -1,5 +1,7 @@
 # clima Jefferson Douglas Desenvolvimento de Sistemas Senai betim MG
 
+## API UTILIZADA https://openweathermap.org/
+
 ## Configuração do projeto
 ```
 npm install
